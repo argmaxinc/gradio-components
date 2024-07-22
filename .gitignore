@@ -1,6 +1,5 @@
 .eggs/
-*.egg-info
-dist/
+**/argmax_gradio_components.egg-info/
 *.pyc
 __pycache__/
 *.py[cod]

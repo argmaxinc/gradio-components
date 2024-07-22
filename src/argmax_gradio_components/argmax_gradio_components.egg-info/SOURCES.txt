@@ -1,5 +1,0 @@
-setup.py
-src/argmax_gradio_components/argmax_gradio_components.egg-info/PKG-INFO
-src/argmax_gradio_components/argmax_gradio_components.egg-info/SOURCES.txt
-src/argmax_gradio_components/argmax_gradio_components.egg-info/dependency_links.txt
-src/argmax_gradio_components/argmax_gradio_components.egg-info/top_level.txt

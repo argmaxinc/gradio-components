@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: argmax_gradio_components
+Version: 0.1.0
+Summary: A collection of custom Gradio components
+Home-page: https://github.com/yourusername/argmax_gradio_components
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
