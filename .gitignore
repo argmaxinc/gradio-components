@@ -12,4 +12,5 @@ __tmp/*
 .ruff_cache
 node_modules
 backend/**/templates/
+src/argmax_gradio_components/**/backend/**/templates
 .DS_Store
