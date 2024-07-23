@@ -1,14 +1,3 @@
----
-tags: [gradio-custom-component, Slider]
-title: argmax_gradio_components
-short_description: Custom components for Gradio
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-pinned: false
-app_file: space.py
----
-
 # `argmax_gradio_components`
 
 🧩 Custom Gradio components by Argmax, Inc.
