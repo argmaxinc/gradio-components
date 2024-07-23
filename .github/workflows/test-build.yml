@@ -16,6 +16,7 @@ jobs:
       fail-fast: false
       matrix:
         python-version: ["3.9", "3.10", "3.11"]
+        component: ["rangeslider"]
 
     steps:
     - uses: actions/checkout@v4
@@ -28,6 +29,6 @@ jobs:
         pip install gradio
     - name: Test build
       run: |
-        cd src/argmax_gradio_components/rangeslider/
+        cd src/argmax_gradio_components/${{ matrix.component }}/
         gradio cc install
         gradio cc build
